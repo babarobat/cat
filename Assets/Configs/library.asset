@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d758ed366f4d472d829cdacaaf22721c, type: 3}
+  m_Name: library
+  m_EditorClassIdentifier: 
+  Kick: {fileID: 11400000, guid: ef302d71a3c4d4a21964e12a29ff266e, type: 2}
+  Pet: {fileID: 11400000, guid: 433905751b40c4df286540d0b706031f, type: 2}
+  Feed: {fileID: 11400000, guid: 21541b90b1fb94c28870f661a76d9724, type: 2}
+  Play: {fileID: 11400000, guid: a7a3481d91910455091379237f80e0bd, type: 2}
+  Params: {fileID: 11400000, guid: 92d0267ac852c465faa302c7e8c9ae59, type: 2}
